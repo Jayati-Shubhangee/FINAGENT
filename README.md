@@ -11,7 +11,7 @@ FinSight is a multi-agent financial-research application. A coordinator routes r
 4. Open `http://127.0.0.1:8000`.
 
 API documentation is available at `/api/docs`; health checks at `/api/health`.
-=======
+
 # FINAGENT
 Hands on Agent building for Fintech Industry
 
