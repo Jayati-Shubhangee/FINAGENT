@@ -1,0 +1,7 @@
+agno==2.9.0
+ddgs
+fastapi==0.141.1
+groq
+python-dotenv
+uvicorn[standard]==0.52.3
+yfinance
