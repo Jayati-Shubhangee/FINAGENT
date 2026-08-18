@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinSight AI
 
 FinSight is a multi-agent financial-research application. A coordinator routes requests to a Yahoo Finance specialist for current market data and a news specialist for recent, sourced coverage, then combines their results.
@@ -19,3 +20,7 @@ docker run -p 8000:8000 -e GROQ_API_KEY=your_key finsight-ai
 ```
 
 Set `GROQ_API_KEY` as a secret in your hosting provider. Never commit `.env`. The application is research-only and not investment advice.
+=======
+# FINAGENT
+Hands on Agent building for Fintech Industry
+>>>>>>> cf0edf858c27e69376f876bed75fa809c95809e0
